@@ -14,5 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=MyPrettyGirl&left_color=green&right_color=red)
+
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=MyPrettyGirl)](https://github.com/stats-organization/github-stats-extended)
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=MyPrettyGirl&langs_count=5)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MyPrettyGirl/MyPrettyGirl/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MyPrettyGirl/MyPrettyGirl/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MyPrettyGirl/MyPrettyGirl/output/github-contribution-grid-snake.svg">
+</picture>
