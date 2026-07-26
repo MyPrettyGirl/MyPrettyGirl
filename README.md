@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MyPrettyGirl&left_color=green&right_color=red)
+
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=MyPrettyGirl)](https://github.com/stats-organization/github-stats-extended)
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=MyPrettyGirl&langs_count=5)
