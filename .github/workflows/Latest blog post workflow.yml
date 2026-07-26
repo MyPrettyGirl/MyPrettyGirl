@@ -16,4 +16,4 @@ jobs:
       - name: Pull in blog's posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://https://myprettygirl.github.io/Hugo-Coder/index.xml"
+          feed_list: "https://myprettygirl.github.io/Hugo-Coder/index.xml"
