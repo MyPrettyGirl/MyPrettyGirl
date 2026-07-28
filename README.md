@@ -14,11 +14,10 @@
 
 
 # Hello and welcome!
-
-My name is Xuwen Yu.
-I'm a freelancer from China, living in Shaoguan,Guangdong Province.
-You can find me on [Bilibili](https://space.bilibili.com/46099703/), or on [Steam](https://steamcommunity.com/id/MyYummyGirl/).
-My favourite game is [DOTA2](https://store.steampowered.com/app/570/Dota_2/)
+- My name is Xuwen Yu.
+- I'm a freelancer from China, living in Shaoguan,Guangdong Province.
+- You can find me on [Bilibili](https://space.bilibili.com/46099703/), or on [Steam](https://steamcommunity.com/id/MyYummyGirl/).
+- My favourite game is [DOTA2](https://store.steampowered.com/app/570/Dota_2/)
 
 ## 🔧 Technologies & Tools
 ### OS
@@ -50,7 +49,7 @@ A sample of my recent articles:
 
 ## &#x1f4c8; GitHub Stats
 
-<img align="center" src="https://github-stats-extended.vercel.app/api?username=MyPrettyGirl"/>
+<img align="center" src="https://github-stats-extended.vercel.app/api?username=MyPrettyGirl&show_icons=true&theme=radical"/>
 <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MyPrettyGirl&langs_count=5"/>
 
 <!-- links to social media icons -->
