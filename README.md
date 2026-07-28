@@ -12,16 +12,16 @@
 <img align="center" src="https://github-stats-extended.vercel.app/api?username=MyPrettyGirl"/>
 <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MyPrettyGirl&langs_count=5"/>
 
-![MyPrettyGirl's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyPrettyGirl&show_icons=true&theme=radical)
+![MyPrettyGirl's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyPrettyGirl&show_icons=true&theme=radical)(https://github.com/anuraghazra/github-readme-stats)
 
 # Hello and welcome!
 
 My name is Xuwen Yu.
-I'm a freelancer from China, living in Shaoguan,Guangdong Province. You can find me on [![Bilibili][1.2]][1], or on [![LinkedIn][3.2]][3].
+I'm a freelancer from China, living in Shaoguan,Guangdong Province. You can find me on ![Bilibili][1], or on ![QQ][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=flat&logo=sublime-text&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -60,21 +60,13 @@ A sample of my recent articles:
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://space.bilibili.com/46099703/
+[2]: https://github.com/MyPrettyGirl/
+[3]: https://steamcommunity.com/id/MyYummyGirl/
 
 
 <!-- Resources -->
