@@ -16,7 +16,7 @@
 # Hello and welcome!
 
 My name is Xuwen Yu.
-I'm a freelancer from China, living in Shaoguan,Guangdong Province. You can find me on ![Bilibili](1), or on ![QQ](1).
+I'm a freelancer from China, living in Shaoguan,Guangdong Province. You can find me on [Bilibili](https://space.bilibili.com/46099703/), or on [Steam](https://steamcommunity.com/id/MyYummyGirl/).
 
 ## 🔧 Technologies & Tools
 ### OS
@@ -59,9 +59,6 @@ A sample of my recent articles:
 
 <!-- links to your social media accounts -->
 
-[1]: https://space.bilibili.com/46099703/
-[2]: https://github.com/MyPrettyGirl/
-[3]: https://steamcommunity.com/id/MyYummyGirl/
 
 
 <!-- Resources -->
