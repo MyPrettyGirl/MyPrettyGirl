@@ -49,8 +49,8 @@ A sample of my recent articles:
 
 ## &#x1f4c8; GitHub Stats
 
-<img align="center" src="https://github-stats-extended.vercel.app/api?username=MyPrettyGirl&show_icons=true&theme=cobalt"/>
-<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MyPrettyGirl&langs_count=5&show_icons=true&card_width=470&theme=cobalt"/>
+<img align="center" src="https://github-stats-extended.vercel.app/api?username=MyPrettyGirl&show_icons=true&card_width=500&theme=cobalt"/>
+<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MyPrettyGirl&langs_count=5&show_icons=true&card_width=500&theme=cobalt"/>
 
 <!-- links to social media icons -->
 
