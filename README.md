@@ -44,7 +44,9 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
-
+- [[No Title] - Post](https://myprettygirl.github.io/Hugo-Coder/posts/20260727-2/)
+- [[No Title] - Post](https://myprettygirl.github.io/Hugo-Coder/posts/20260727/)
+- [Search](https://myprettygirl.github.io/Hugo-Coder/search/search/)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
