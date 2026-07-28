@@ -16,7 +16,7 @@
 # Hello and welcome!
 
 My name is Xuwen Yu.
-I'm a freelancer from China, living in Shaoguan,Guangdong Province. You can find me on ![Bilibili][1], or on ![QQ][3].
+I'm a freelancer from China, living in Shaoguan,Guangdong Province. You can find me on ![Bilibili](1), or on ![QQ](1).
 
 ## 🔧 Technologies & Tools
 ### OS
