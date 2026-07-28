@@ -20,11 +20,17 @@ I'm a freelancer from China, living in Shaoguan,Guangdong Province. You can find
 
 ## 🔧 Technologies & Tools
 ### OS
-![](https://img.shields.io/badge/Linux-入门-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Windows-精通-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=flat&logo=sublime-text&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Linux-入门-blue)
+![](https://img.shields.io/badge/Windows-精通-blue)
+### Editor
+![](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=flat&logo=sublime-text&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=blue)
+
+### Code
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
+### Tools
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 
